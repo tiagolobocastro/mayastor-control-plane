@@ -1,4 +1,5 @@
 timeout_sec = 10000
+pr_status = [ "commitlint" ]
 required_approvals = 0
 delete_merged_branches = true
 block_labels = [ "DO NOT MERGE", "wip" ]
